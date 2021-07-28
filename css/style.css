@@ -39,11 +39,13 @@ body {
 /* Buttons */
 .honda-btn-outline,
 .honda-btn {
-    padding: 8px 20px;
-    color: #ffffff;
+    padding: 10px 25px;
+    color: #E76F51;
     border: none;
     border: 1px solid #E76F51;
     border-radius: 5px;
+    background: #fff;
+    transition: all .3s ease;
 }
 
 .honda-btn-outline:hover {
@@ -55,6 +57,7 @@ body {
     background-color: #E76F51;
     color: #fff;
     padding: 5px 25px;
+    border: none;
 }
 
 .honda-btn:hover {
